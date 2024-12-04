@@ -4,6 +4,9 @@ It is a wrapper so that you dont have to install C++ on your machine
 
 https://github.com/TA-Lib/ta-lib-python/issues/127
 
+Library on PyPi
+https://pypi.org/project/ta-lib-easy/
+
 Install with :
     pip install ta-lib-easy
 
